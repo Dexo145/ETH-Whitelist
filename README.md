@@ -1,1 +1,1 @@
-# NFT-WhiteList-Reveal
+# ETH-WhiteList-Reveal
